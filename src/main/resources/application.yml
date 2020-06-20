@@ -1,0 +1,9 @@
+my:
+  greeting: hello Abu Kasozi
+app:
+  name: My app
+  description: "Welcome to ${app.name}"
+
+spring:
+  profiles:
+    active: default

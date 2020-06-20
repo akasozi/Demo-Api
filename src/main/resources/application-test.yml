@@ -1,0 +1,6 @@
+my:
+  greeting: hello Abu Kasozi
+
+app:
+  name: My Test app
+  description: "Welcome to ${app.name}"
